@@ -1,4 +1,4 @@
-#Vending Machine
+# Vending Machine
 
 This project simulates the functionality of a vending machine that serves soda. You can do things like insert money, select a drink, and restock the inventory. Text messages are displayed on the screen for feedback and simulate a standard vending machine.
 
